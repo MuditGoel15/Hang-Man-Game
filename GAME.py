@@ -9,6 +9,7 @@ win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Hangman Game!")
 
 # button variables
+circle = 20
 RADIUS = 20
 GAP = 15
 letters = []
